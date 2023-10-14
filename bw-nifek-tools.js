@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://r21.bloodwars.interia.pl/
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      -
 // @description 14.10.2023, 15:27:58
 // ==/UserScript==
